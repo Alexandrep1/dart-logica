@@ -106,5 +106,3 @@ void main(){
    */
   var ano = 2024;
   var aluno = 'Maria';
-
-  teste
